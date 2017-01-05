@@ -4,7 +4,7 @@
  * http://stackoverflow.com/questions/5185864/javascript-quicksort
  */
 
- var array = [8, 2, 5, 7, 4, 3, 12, 6, 19, 11, 10, 13, 9];
+var array = [8, 2, 5, 7, 4, 3, 12, 6, 19, 11, 10, 13, 9];
 console.log(quickSort(array, 0, array.length -1)) 
 // [ 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 19 ]
 
