@@ -59,7 +59,7 @@ SinglyList.prototype.searchNodeAt = function(position) {
     return currentNode;
 };
  
- // the functionality to remove a node at specific positions in our list.
+// the functionality to remove a node at specific positions in our list.
 SinglyList.prototype.remove = function(position) {
     var currentNode = this.head,
         length = this._length,
